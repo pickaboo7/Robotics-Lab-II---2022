@@ -7,54 +7,54 @@ Set of Experiments:
 Lab 1: Linux for Robotics
        Python for Robotics
        
-Assignement 1: 
+Assignment 1: 
        
 Lab 2: ROS2 Installation
        Create package
        Create Publisher Subscriber Nodes
        Custom Messages
        
-Assignement 2: 
+Assignment 2: 
        
 Lab 3: Services, Actions
        Introduction to TurtleSim  
        
-Assignement 3: 
+Assignment 3: 
        
 Lab 4: ROS2 for 3D modelling
        URDF creation for mobile robots
        Mobile Robot Control
        
-Assignement 4:        
+Assignment 4:        
  
        
 Lab 5: URDF creattion for manipulator
        Manipulator control
        Forward and Inverse kinematics
        
-Assignement 5: 
+Assignment 5: 
        
 Lab 6: ROS2 with OpenCV
        Line Follower Robot
        
-Assignement 6: 
+Assignment 6: 
        
 Lab 7: Design a robot using Solidworks
        Control of Robot
        
-Assignement 7: 
+Assignment 7: 
        
 Lab 8: UR5e Control using ROS2
 
-Assignement 8: 
+Assignment 8: 
 
 Lab 9: Turtlebot 2 experiments using ROS2
 
-Assignement 9: 
+Assignment 9: 
 
 Lab 10: ROS2 simulation for Turtlebot3 Navigation 
 
-Assignement 10: 
+Assignment 10: 
 
 
 Mini Project List: 
