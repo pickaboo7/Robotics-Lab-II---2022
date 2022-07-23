@@ -58,6 +58,7 @@ Assignement 10:
 
 
 Mini Project List: 
+
                    1. ROS2 and deep learning for autonomous driving.
 
                    2. ROS2 for manipulation. (pick and place).
