@@ -5,41 +5,52 @@ This contains the experiments and assignments for Robotics Lab II.
 Set of Experiments: 
 
 Lab 1: Linux for Robotics
+
        Python for Robotics
        
 Assignment 1: 
        
 Lab 2: ROS2 Installation
+
        Create package
+       
        Create Publisher Subscriber Nodes
+       
        Custom Messages
        
 Assignment 2: 
        
 Lab 3: Services, Actions
+
        Introduction to TurtleSim  
        
 Assignment 3: 
        
 Lab 4: ROS2 for 3D modelling
+
        URDF creation for mobile robots
+       
        Mobile Robot Control
        
 Assignment 4:        
  
        
 Lab 5: URDF creattion for manipulator
+
        Manipulator control
+       
        Forward and Inverse kinematics
        
 Assignment 5: 
        
 Lab 6: ROS2 with OpenCV
+
        Line Follower Robot
        
 Assignment 6: 
        
 Lab 7: Design a robot using Solidworks
+
        Control of Robot
        
 Assignment 7: 
