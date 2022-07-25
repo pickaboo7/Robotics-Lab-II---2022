@@ -81,11 +81,6 @@ Lab 9:
 
 Assignment 9: 
 
-Lab 10: 
-
-       ROS2 simulation for Turtlebot3 Navigation 
-
-Assignment 10: 
 
 
 Mini Project List: 
