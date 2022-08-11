@@ -45,7 +45,7 @@ Assignment 4:
        
 Lab 5: 
 
-       URDF creattion for manipulator
+       URDF creation for manipulator
 
        Manipulator control
        
